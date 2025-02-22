@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at PwC as a User Acceptance Tester - kinda QA?<br>👯 I’m looking to work as Software Developer<br>⚡ Fun fact: besides of being a Dev student, I'm also a Personal Trainer. I really enjoy the physical training and teaching!
+🔭 I’m currently working at PwC as a User Acceptance Tester - kinda QA? but when 2025 started I was moved to a Business Analyst role! <br>👯 I’m looking to work as Software Developer<br>⚡ Fun fact: besides of being a Dev student, I'm also a Personal Trainer. I really enjoy the physical training and teaching!
 
 
 ## 🌐 Socials:
